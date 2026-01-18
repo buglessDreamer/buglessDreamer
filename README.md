@@ -92,6 +92,6 @@
   </a>
 
   <hr/>
-  Crafted with passion by Subhadip
+  <p align="center">✨ Proudly crafted by <b>buglessDreamer</b> ✨</p>
 
 </div>
