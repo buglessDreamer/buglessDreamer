@@ -11,6 +11,9 @@
     <a href="https://www.linkedin.com/in/subhadip-adgiri/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://x.com/Subhadipadgiri" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" />
+   </a>
     <a href="https://www.instagram.com/its_subhadip_240" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>  
