@@ -19,7 +19,7 @@
     </a>  
   </div>
 
-  <h3 align="center">Web Developer || Problem Solver</h3>
+  <h3 align="center">Full-Stack Developer ⚙️ | Competitive Coder 💻 | UI Tinkerer 🎨</h3>
 
   <br />
 
