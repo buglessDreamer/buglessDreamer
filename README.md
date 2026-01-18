@@ -56,6 +56,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" />
       </td>
     </tr>
+     <tr>
+      <td align="left"><b>DevOps & Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" /></td>
+    </tr>
   </table>
 
   <br />
