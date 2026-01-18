@@ -1,10 +1,16 @@
-# 💫 Hi 👋, I'm Subhadip Adgiri
 <div align="center">
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=Subhadip+Adgiri;Web+Developer;Welcome+to+My+GitHub!" />
   </p>
+    <h3 align="center">Full-Stack Developer ⚙️ | Competitive Coder 💻 | UI Tinkerer 🎨</h3>
 
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/quirbyte/quirbyte/main/assets/assets.gif" width="100%" alt="Coding Divider" />
+</div>
+
+<br/>
+  
   <div align="center">
     <a href="mailto:subhadipadgiri2005@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -20,24 +26,10 @@
     </a>  
   </div>
 
-  <h3 align="center">Full-Stack Developer ⚙️ | Competitive Coder 💻 | UI Tinkerer 🎨</h3>
-
   <br />
 
   <h2 align="center">🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=buglessDreamer&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-  <br /><br />
-
- <hr/>
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quirbyte/quirbyte/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
-<hr/>
 
   <br /><br />
 
@@ -76,6 +68,17 @@
 
   <h3 align="center">✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+  <br /><br />
+  <hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quirbyte/quirbyte/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
+<hr/>
 
   <br /><br />
 
