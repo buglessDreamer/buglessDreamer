@@ -46,6 +46,7 @@
     <tr>
       <td align="left"><b>Database</b></td>
       <td>
+        <img src="https://skillicons.dev/icons?i=mysql" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" />
       </td>
     </tr>
