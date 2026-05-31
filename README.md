@@ -41,7 +41,11 @@
     </tr>
     <tr>
       <td align="left"><b>Frontend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=figma" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react,figma" /></td>
+    </tr>
+     <tr>
+      <td align="left"><b>Backend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
     </tr>
     <tr>
       <td align="left"><b>Database</b></td>
