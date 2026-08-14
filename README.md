@@ -28,11 +28,6 @@
 
   <br />
 
-  <h2 align="center">🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=buglessDreamer&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-  <br /><br />
-
   <h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
   <table align="center">
     <tr>
