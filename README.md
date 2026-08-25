@@ -56,6 +56,17 @@
   </table>
 
   <br />
+  <hr/>
+
+<h2 align="center">🔝 Top Used Languages</h2>
+<div align="center">
+  <img 
+    src="https://github-readme-stats-zeta-flax-72.vercel.app/api/top-langs/?username=buglessDreamer&theme=tokyonight&hide_border=true&layout=compact" 
+    width="90%" 
+  />
+</div>
+
+<hr/>
 
   <h2 align="center">📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=buglessDreamer&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
